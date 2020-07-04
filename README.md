@@ -18,8 +18,8 @@ Once finished:
 ## Starting the bot
 Use one of the following scripts listed below:
 
--- **Windows:** `start.bat`
--- **Linux:** `start.sh`
+- **Windows:** `start.bat`
+- **Linux:** `start.sh`
 
 ## Inviting to a guild
 To add the bot to your guild, you have to get an oauth link for it.
