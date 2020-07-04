@@ -1,0 +1,22 @@
+{
+  "name": "togami-dev",
+  "version": "0.0.1",
+  "description": "Random single-file Discord.js project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node togami.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TogamiCookiie/Togami-Dev.git"
+  },
+  "author": "TogamiCookiie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TogamiCookiie/Togami-Dev/issues"
+  },
+  "homepage": "https://github.com/TogamiCookiie/Togami-Dev#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
